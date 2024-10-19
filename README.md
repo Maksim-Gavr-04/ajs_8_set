@@ -1,6 +1,6 @@
 # `Set`
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/mghmemk54qej5alx?svg=true)](https://ci.appveyor.com/project/Maksim-Gavr-04/ajs-8-set)
 
 ## Легенда
 
